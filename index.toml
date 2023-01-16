@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/armored-elytra.pw.toml"
-hash = "b46af2de1693fcaf892fd6dd1734915a9a36549093144b724e940cce5936e17c"
+hash = "12dbea6409585a4ea62ccfbb1db0c03cc86b5f39e6a9111c013fc13c977c4b17"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "99f6a7efa6c8946aacfa1465ad8a2912cdf3233dc09a5788ad5d7f6d679836b4"
+hash = "4d6fd8cc4fcbdd0d75dc8cee60521977974cfc23c7dde66a691ed9b30ad5344a"
 metafile = true
 
 [[files]]
