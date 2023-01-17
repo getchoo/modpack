@@ -11,6 +11,11 @@ hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
@@ -43,6 +48,16 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
+metafile = true
+
+[[files]]
+file = "mods/chime.pw.toml"
+hash = "979d3cd0d08798db597cb306e134596f2acd3ff03bd2624cded8594de4bfb5bf"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
@@ -81,8 +96,18 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cce527e82fdbc8f13fe67258090b8980e4b92551a22d5643705be6e8871b575b"
+metafile = true
+
+[[files]]
 file = "mods/extrasounds.pw.toml"
 hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "c8411b4fb17459c9433de7ce722a23e0a9b8600ee5d2b156e99d3d041e3ba86f"
 metafile = true
 
 [[files]]
@@ -228,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/thorium.pw.toml"
 hash = "f76293001a405fa99903869bc8d5f3caa2976f0179513f73f59fc82dfbce9f72"
+metafile = true
+
+[[files]]
+file = "mods/transparent.pw.toml"
+hash = "08a2fb7d325d49896acc4149da040a3a83518c7fafac071255bc0f562c4faaf6"
 metafile = true
 
 [[files]]
