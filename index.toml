@@ -91,6 +91,11 @@ hash = "00fe74e2080bf0b739ef95373075bbefc8f447bb396da5bfc9072f90320c6d51"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "58911d03dcdd03583efa113656167fb08dc71bf251043a71854011fafbd02553"
+metafile = true
+
+[[files]]
 file = "mods/extrasounds.pw.toml"
 hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
