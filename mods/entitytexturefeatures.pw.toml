@@ -2,6 +2,10 @@ name = "Entity Texture Features"
 filename = "entity_texture_features_fabric_1.19.2-4.3.1.jar"
 side = "client"
 
+[option]
+optional = true
+description = "optifine emissive textures for sodium/iris"
+
 [download]
 url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/iBJRmSSb/entity_texture_features_fabric_1.19.2-4.3.1.jar"
 hash-format = "sha1"

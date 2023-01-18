@@ -6,13 +6,8 @@ hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
 metafile = true
 
 [[files]]
-file = "mods/alternate-current.pw.toml"
-hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
-metafile = true
-
-[[files]]
 file = "mods/animatica.pw.toml"
-hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
+hash = "10cd3aaed29f8b73f34fe4494cb77f72d0e6339b216f7915c5268e637bbb4451"
 metafile = true
 
 [[files]]
@@ -51,13 +46,8 @@ hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
 metafile = true
 
 [[files]]
-file = "mods/chime.pw.toml"
-hash = "979d3cd0d08798db597cb306e134596f2acd3ff03bd2624cded8594de4bfb5bf"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
+hash = "4e11de7645b43375e88aa21676aaeb1b933e859528a149a98c4bb7f5ef3c410b"
 metafile = true
 
 [[files]]
@@ -97,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "cce527e82fdbc8f13fe67258090b8980e4b92551a22d5643705be6e8871b575b"
+hash = "00fe74e2080bf0b739ef95373075bbefc8f447bb396da5bfc9072f90320c6d51"
 metafile = true
 
 [[files]]
@@ -107,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "c8411b4fb17459c9433de7ce722a23e0a9b8600ee5d2b156e99d3d041e3ba86f"
+hash = "71e8fdcc4442195cc62d50344498c399bbf5d64a1c50a2f69cc2c1fbe38b3989"
 metafile = true
 
 [[files]]
@@ -257,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/transparent.pw.toml"
-hash = "08a2fb7d325d49896acc4149da040a3a83518c7fafac071255bc0f562c4faaf6"
+hash = "7dd845973f641e3d6edaf9d1b9cf7f13c2aa1ee04885ad37062a9e898ba01a77"
 metafile = true
 
 [[files]]
