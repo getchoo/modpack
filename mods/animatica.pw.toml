@@ -4,7 +4,7 @@ side = "client"
 
 [option]
 optional = true
-description = "optifine animated textures for sodium/iris"
+description = "optifine animated textures for fabric/quilt"
 
 [download]
 url = "https://cdn.modrinth.com/data/PRN43VSY/versions/0.5%2B1.19/animatica-0.5%2B1.19.jar"

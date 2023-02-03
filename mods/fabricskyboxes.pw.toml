@@ -4,7 +4,7 @@ side = "client"
 
 [option]
 optional = true
-description = "optifine resource pack skyboxes for sodium/iris"
+description = "optifine resource pack skyboxes for fabric/quilt"
 
 [download]
 url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/ehRYuRPI/fabricskyboxes-0.6.1%2Bmc1.19.2.jar"

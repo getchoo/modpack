@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "10cd3aaed29f8b73f34fe4494cb77f72d0e6339b216f7915c5268e637bbb4451"
+hash = "84f02cf611c43d5ba2f312d4099ba07c15d57559285bf0b0d4a3d353d89c68ec"
 metafile = true
 
 [[files]]
@@ -47,12 +47,17 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "4e11de7645b43375e88aa21676aaeb1b933e859528a149a98c4bb7f5ef3c410b"
+hash = "eaab7d31463cbdeaefcd2bb15b9fb4f88b7058e4b57fb6268ae726de24f71f9e"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "1440e078ce5b1c2324b0ebfb1cf4da170b59f1947103ff88eed7ef8e1c556cfe"
 metafile = true
 
 [[files]]
@@ -87,12 +92,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "00fe74e2080bf0b739ef95373075bbefc8f447bb396da5bfc9072f90320c6d51"
+hash = "8e05516462bc26b41b92a315361f8acdd6548dda0a82c90936efa93e15cc93ec"
 metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "58911d03dcdd03583efa113656167fb08dc71bf251043a71854011fafbd02553"
+hash = "8988eeef84135647df072ab6336985cd0cff610865ccf34990bd9e0471df593a"
 metafile = true
 
 [[files]]
@@ -102,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "71e8fdcc4442195cc62d50344498c399bbf5d64a1c50a2f69cc2c1fbe38b3989"
+hash = "e11cbf1cccc88b5d6d04e08f78dbc3f31bc61947a586a8acfe4f2b73352332f3"
 metafile = true
 
 [[files]]
@@ -123,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "af917d401ba97478be12da67f2c7df36b4547791dbea96ccc1843a814b25c766"
 metafile = true
 
 [[files]]
@@ -183,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "95968c19d093f7074af27079bc2f7f5fb09f21c2c659355fe8da7ea168e23c84"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "d89684b6a030222bd70dddb8f0a990f691385ec20cad5df04ef967712840f01c"
 metafile = true
 
 [[files]]
@@ -252,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/transparent.pw.toml"
-hash = "7dd845973f641e3d6edaf9d1b9cf7f13c2aa1ee04885ad37062a9e898ba01a77"
+hash = "1b1b8ecacaa9cc969387c3ee2c7c257ce4f48ccc73e770877c063018fdd45306"
 metafile = true
 
 [[files]]

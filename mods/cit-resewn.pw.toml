@@ -4,7 +4,7 @@ side = "client"
 
 [option]
 optional = true
-description = "optifine CIT for sodium/iris"
+description = "optifine CIT for fabric/quilt"
 
 [download]
 url = "https://cdn.modrinth.com/data/otVJckYQ/versions/lYmW1wnD/CITResewn-1.1.2%2B1.19.2.jar"
