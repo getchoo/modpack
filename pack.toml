@@ -1,0 +1,13 @@
+name = "server-modpack"
+author = "getchoo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5a632973f4536b78ad531c7e43a4633c7149d3b1630524e0c37362ef84b72be9"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.8"
