@@ -81,11 +81,6 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
-file = "mods/entity-collision-fps-fix.pw.toml"
-hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
@@ -201,18 +196,8 @@ hash = "d89684b6a030222bd70dddb8f0a990f691385ec20cad5df04ef967712840f01c"
 metafile = true
 
 [[files]]
-file = "mods/niceload.pw.toml"
-hash = "9638b4d155d3af277c6475ff5dbb50b8fcdb50106f5169491cdf1d05cc3f23f1"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
-metafile = true
-
-[[files]]
-file = "mods/no-telemetry.pw.toml"
-hash = "e151fe842a9f578b400d9bdfcc3be782861098415aec5cc7909eb69ec425faa3"
 metafile = true
 
 [[files]]
