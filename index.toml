@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "00960cdd63d16c9a2ca9f1e3a9c3aa79d789c0284fb19091ba4b8841a7f5def5"
+hash = "46a497398e476b0bbac4a1c9816da987be2a9afc2e62011d584963beef0ba45e"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "64445b9959187d2d1c7ebb4aa60efd1c65f110d7548e352faf4ab3468ef49c9a"
+hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "442aa2f4615ccf6a2a307d9f45a15c9789a29fa0848ca0c5350a93e941a770e2"
+hash = "885f1cb690e38020936cb7b62db9136994f1f758e26794772bf4db4a3f596c41"
 metafile = true
 
 [[files]]
