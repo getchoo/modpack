@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
+hash = "f30b15dc574856f6eca824f645537680ca12a6282bee89a33cbced66d6601dca"
 metafile = true
 
 [[files]]
