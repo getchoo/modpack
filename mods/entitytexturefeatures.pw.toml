@@ -1,17 +1,17 @@
 name = "Entity Texture Features"
-filename = "entity_texture_features_fabric_1.19.2-4.3.1.jar"
+filename = "entity_texture_features_fabric_1.19.2-4.3.2.jar"
 side = "client"
 
-[option]
-optional = true
-description = "optifine emissive textures for fabric/quilt"
-
 [download]
-url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/iBJRmSSb/entity_texture_features_fabric_1.19.2-4.3.1.jar"
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/zIpRfJGw/entity_texture_features_fabric_1.19.2-4.3.2.jar"
 hash-format = "sha1"
-hash = "e8bfbe8231c95de297b607212f70fb7f3da46427"
+hash = "d9051c0155a1759ff416629a6d238516859d078c"
 
 [update]
 [update.modrinth]
 mod-id = "BVzZfTc1"
-version = "iBJRmSSb"
+version = "zIpRfJGw"
+
+[option]
+optional = true
+description = "optifine emissive textures for fabric/quilt"
