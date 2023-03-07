@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "15f9ac2ca16ab92d5d9512443cd188f278f18e8f9a9d8531675e60c7346a03a7"
+hash = "5bc704a49911e9a029dc47cda6dba6920085b902143856015fd0f146550f3a05"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ac0fbe596777dd0c79e857b079bc284a68e138e7b6431995d30640821acbb67f"
+hash = "4a781874847eb651d839e150d3e0429f81b7ff5462065ace6679a2e193340b01"
 metafile = true
 
 [[files]]
