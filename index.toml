@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "1440e078ce5b1c2324b0ebfb1cf4da170b59f1947103ff88eed7ef8e1c556cfe"
+hash = "a9b5002cd4a4694d1ef628b47cabdf930a37c30b503b2fe6d3db6e0639269736"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "885f1cb690e38020936cb7b62db9136994f1f758e26794772bf4db4a3f596c41"
+hash = "f37d98015547fa4c5c392eec612376bebf6af9ed83cde466938bebf60c7ab68d"
 metafile = true
 
 [[files]]
