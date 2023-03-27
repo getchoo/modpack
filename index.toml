@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "5bc704a49911e9a029dc47cda6dba6920085b902143856015fd0f146550f3a05"
+hash = "d0faea9c2424906291c80e9e5464d05a070858c6c88f668dcdb993ac438d7a20"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "c9e32601f4803e08da824b881e06332179d3896e127c7a24384dfd3782b8f292"
+hash = "73016b3eee768165722134b3eaab88cddeabfe70410f9ae8eb5281eaecc06dd2"
 metafile = true
 
 [[files]]
