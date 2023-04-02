@@ -1,0 +1,13 @@
+name = "MidnightLib"
+filename = "midnightlib-quilt-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/e50cGA1L/midnightlib-quilt-1.1.0.jar"
+hash-format = "sha1"
+hash = "4f72106376bed4ae6af1c35b863b5886c3844f07"
+
+[update]
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "e50cGA1L"

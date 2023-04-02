@@ -1,13 +1,13 @@
 name = "getchoos-modpack"
 author = "getchoo"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ca06738dacab7fa24fa8f9ed336cb59ad18f94e9afa51ab195defadcb6512b2c"
+hash = "cbd34c5555e170fdd481aca0c37430d402902c69acd374588f40aeffcc12d385"
 
 [versions]
-minecraft = "1.19.2"
-quilt = "0.18.1-beta.66"
+minecraft = "1.19.3"
+quilt = "0.18.7"
