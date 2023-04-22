@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "880b96251a6fc97ad5055e965902ac50768ad881694a8f785918bf6a59b89ffc"
+hash = "9ae30d3be1f8bda7eb5f044acc389b8440a4dfd163ce6329257bc13d02b7e04c"
 metafile = true
 
 [[files]]
