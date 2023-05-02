@@ -10,10 +10,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-
       - uses: cachix/install-nix-action@v20
-        with:
-          github_access_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: build
         run: |
@@ -23,4 +20,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: getchoo-modpack.zip
-          path: result/getchoo-modpack.zip
+          path: ${{ github.workspace }}/result/*
