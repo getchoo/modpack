@@ -1,11 +1,16 @@
 {
   description = "getchoo's modpack";
 
-  inputs.nixpkgs.url = "nixpkgs/nixos-unstable";
+  inputs = {
+    nixpkgs.url = "nixpkgs/nixos-unstable";
+    packwiz2nix.url = "github:getchoo/packwiz2nix";
+  };
 
   outputs = {
     self,
     nixpkgs,
+    packwiz2nix,
+    ...
   }: let
     version = self.lastModifiedDate;
     systems = [
@@ -18,10 +23,17 @@
     forAllSystems = nixpkgs.lib.genAttrs systems;
     nixpkgsFor = forAllSystems (system: import nixpkgs {inherit system;});
   in {
-    packages = forAllSystems (s: let
+    apps = forAllSystems (s: let
       pkgs = nixpkgsFor.${s};
     in {
+      generate-checksums = packwiz2nix.lib.mkChecksumsApp pkgs ./mods;
+    });
+
+    packages = forAllSystems (s: let
+      pkgs = nixpkgsFor.${s};
+    in rec {
       getchoo-modpack = pkgs.callPackage ./nix {inherit version;};
+      default = getchoo-modpack;
     });
 
     devShells = forAllSystems (s: let

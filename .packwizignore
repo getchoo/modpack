@@ -1,2 +1,7 @@
 /README.md
 /LICENSE
+/nix
+/.github
+/flake.nix
+/flake.lock
+/checksums.json

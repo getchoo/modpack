@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/update-mods.yml"
-hash = "f2522f4a6a293a0234c18fe38e6d13cf99309116532629e9325dcba1fa4225c8"
-
-[[files]]
 file = "mods/advancements-debug.pw.toml"
 hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
 metafile = true
@@ -261,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "685bc10fac453d4c1ef0300072375ef3d3f377b66ae306547185cb51a1fa145b"
+hash = "e36dc50dcfcfd327c3434ef98b477e41359ef22670ba77995c62116a976aec15"
 metafile = true
 
 [[files]]

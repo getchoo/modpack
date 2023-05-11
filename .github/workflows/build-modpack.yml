@@ -1,7 +1,10 @@
-name: build modpack
+name: Build modpack
 
 on:
   push:
+    paths:
+      # only run when prismlauncher modpack files are changed
+      - nix/files/**
   workflow_dispatch:
 
 jobs:
@@ -14,7 +17,7 @@ jobs:
 
       - name: build
         run: |
-          nix build .#getchoo-modpack
+          nix build
 
       - name: upload
         uses: actions/upload-artifact@v3

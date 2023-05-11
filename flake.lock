@@ -15,9 +15,25 @@
         "type": "indirect"
       }
     },
+    "packwiz2nix": {
+      "locked": {
+        "lastModified": 1683785033,
+        "narHash": "sha256-2j1kcX5A8rjUCYfoGXg/Nymb6S9kfn4dRRHkMM5hlBY=",
+        "owner": "getchoo",
+        "repo": "packwiz2nix",
+        "rev": "a0c9b2378a0d1b3e57fda1d377b9914e3bc141b6",
+        "type": "github"
+      },
+      "original": {
+        "owner": "getchoo",
+        "repo": "packwiz2nix",
+        "type": "github"
+      }
+    },
     "root": {
       "inputs": {
-        "nixpkgs": "nixpkgs"
+        "nixpkgs": "nixpkgs",
+        "packwiz2nix": "packwiz2nix"
       }
     }
   },
