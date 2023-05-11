@@ -6,11 +6,6 @@ hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
 metafile = true
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "84f02cf611c43d5ba2f312d4099ba07c15d57559285bf0b0d4a3d353d89c68ec"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "44747e64b28a91cfc1468e14dbb55ac960b4213a20f59fd4116bf817970c6422"
 metafile = true
@@ -38,16 +33,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "b1ff809ec34348860c3a403f3d5210f7386ddcda8f0d19c5ff4533fd22abeb08"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "32f18be44f553f9276279f1eb80b9e0b38e74e1692fb13fec4d14c390d74cb2f"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
 
 [[files]]
@@ -81,18 +66,8 @@ hash = "beaf8fcc2dbc9098a414bedd5a8ca156084b39f20517fac2ff60ad57f5767202"
 metafile = true
 
 [[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "1545c3b6d41f8d54ab49ad2236f7ebab7a596430bcca2f6c795ee4a59c0bb0f1"
-metafile = true
-
-[[files]]
 file = "mods/essential.pw.toml"
 hash = "8988eeef84135647df072ab6336985cd0cff610865ccf34990bd9e0471df593a"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "8e49f6bde6960764e8acf206a1d3ba20099bb48416a8734e41686d935662ac8c"
 metafile = true
 
 [[files]]
@@ -136,11 +111,6 @@ hash = "a42a498e377334891811bf635a4c35210e04fee5d4f832588bbdc7a5947c4a9b"
 metafile = true
 
 [[files]]
-file = "mods/koro-utils-lib.pw.toml"
-hash = "e6445788e906502b942455717e4d9e34e2f6d4032d11567d7ce157ff334faedf"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
@@ -168,11 +138,6 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
-metafile = true
-
-[[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "d8bb9cc6c51b8bae3dc185fce8563d50a7cfbef7a272f9948d0f7410e1900f3a"
 metafile = true
 
 [[files]]
@@ -258,9 +223,4 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "e36dc50dcfcfd327c3434ef98b477e41359ef22670ba77995c62116a976aec15"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "c66028d555a347562589645179fe8834bd04d48b78c9a667f20b4178211dfbb3"
 metafile = true
