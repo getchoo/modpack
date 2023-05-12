@@ -17,11 +17,11 @@
     },
     "packwiz2nix": {
       "locked": {
-        "lastModified": 1683785033,
-        "narHash": "sha256-2j1kcX5A8rjUCYfoGXg/Nymb6S9kfn4dRRHkMM5hlBY=",
+        "lastModified": 1683887515,
+        "narHash": "sha256-eYxlzal5DNUvpv3F9W42wREdRi6h1hceOcgoiN6gvRg=",
         "owner": "getchoo",
         "repo": "packwiz2nix",
-        "rev": "a0c9b2378a0d1b3e57fda1d377b9914e3bc141b6",
+        "rev": "1c9c0ef2e40fbd1a921b446d8fe5884e645e4308",
         "type": "github"
       },
       "original": {

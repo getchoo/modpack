@@ -7,12 +7,10 @@
   };
 
   outputs = {
-    self,
     nixpkgs,
     packwiz2nix,
     ...
   }: let
-    version = self.lastModifiedDate;
     systems = [
       "x86_64-linux"
       "aarch64-linux"
@@ -22,17 +20,24 @@
 
     forAllSystems = nixpkgs.lib.genAttrs systems;
     nixpkgsFor = forAllSystems (system: import nixpkgs {inherit system;});
+    inherit (packwiz2nix.lib) mkChecksumsApp mkMultiMCPack mkPackwizPackages;
   in {
     apps = forAllSystems (s: let
       pkgs = nixpkgsFor.${s};
     in {
-      generate-checksums = packwiz2nix.lib.mkChecksumsApp pkgs ./mods;
+      generate-checksums = mkChecksumsApp pkgs ./mods;
     });
 
     packages = forAllSystems (s: let
       pkgs = nixpkgsFor.${s};
+      mods = mkPackwizPackages pkgs ./checksums.json;
     in rec {
-      getchoo-modpack = pkgs.callPackage ./nix {inherit version;};
+      getchoo-modpack = mkMultiMCPack {
+        inherit pkgs mods;
+        filesDir = ./files;
+        name = "getchoo-modpack";
+      };
+
       default = getchoo-modpack;
     });
 
