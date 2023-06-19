@@ -18,9 +18,10 @@ jobs:
       - name: build
         run: |
           nix build
+          cp result/getchoo-modpack.zip .
 
       - name: upload
         uses: actions/upload-artifact@v3
         with:
           name: getchoo-modpack.zip
-          path: ${{ github.workspace }}/result/getchoo-modpack.zip
+          path: getchoo-modpack.zip
