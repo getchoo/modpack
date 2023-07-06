@@ -58,6 +58,11 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "79754546c2317b7106f1659ff37760137fec267a259088b640c55b6a2cc40a95"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
 metafile = true
@@ -160,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "b4b155b62583a5b2df1e068248436c25523cafce20a7540d8cb4c95f8e2d0af7"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "df6057d2d83576d829d400c0b4b8c0fb486a829c59672c91a7f3c8279310935c"
 metafile = true
 
 [[files]]
