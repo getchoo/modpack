@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "575d6a2f4ef13aa875462484a6548904e4b623258e95b8fbb85f3dae4ccd550d"
+hash = "1c372423db77d2643e589e3b03d0fc0fd12e092092240651fbde56eab8d8ef69"
 metafile = true
 
 [[files]]
@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "05723068a1745bc41a87562915fa04582934fde82e61c64ccffec0e66731a0c8"
+hash = "1e84ad32a9dbca0bf6d06f99d8da6ee0c8758af54ced0b2c4a55dcb98751d0be"
 metafile = true
 
 [[files]]
