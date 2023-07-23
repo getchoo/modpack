@@ -39,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "a7105bd69c92f6d7194511f2786b651fd741abde01f002de9ba91dd95e4af70b"
+hash = "0d1bd54cee2a9d1e4814d03e8dd3f022b7ee9b3886235971cd803dc18983e5ea"
 metafile = true
 
 [[files]]
@@ -214,5 +214,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a00bc3e555942ca96e54d7628c7e0a1bb3068c5ef706a8c5a64124718f4ad6d7"
+hash = "7d3e492046e907b113da93453ceaa02b00ea8c1295b6b692dbf199de142476a3"
 metafile = true
