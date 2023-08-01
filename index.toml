@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "3d492e86d5f900fa5872736ccc7e2e75283d677309700ea3e48b2afcecbb2848"
+hash = "ba705fe68288b3dbef67e0229d8570ffbebee167b7794addf82733f4c60aadfb"
 metafile = true
 
 [[files]]
