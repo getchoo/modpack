@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "32b3d52677221dc132ccec980305dd9fbac2b40535c1f733b7cb64db00500a5c"
+hash = "74b4b2d7e25046d535a25efbd12aaf7c5b60f24df76625660549e6a47372ea39"
 metafile = true
 
 [[files]]
@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+hash = "b73d4f34c666ccc6785a6f27207e4658951a6935590f06178b30f51876f93264"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "2148b4c6ec47b73a85cca88135add22ac44916aa4b05cb0b544edd3dd4eae6c4"
+hash = "8c457bd88f3c6a9cd2cc04a61945048743b8a1020048bdb3a443b53518a0528f"
 metafile = true
 
 [[files]]
