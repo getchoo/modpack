@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "6ff7c68fb86e72f9f9feb1858e04cd2b7f80efda3b6819d484806a4316215557"
+hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
 metafile = true
 
 [[files]]
@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "201ab0485fc28e1b4a8fb04f620bfe94e19a3495131b939b67a701068de7f325"
+hash = "7d4a793737929ac827fcf7731e9fdbbfc8e3633ad3e7d13b75e93c8ece5b3fca"
 metafile = true
 
 [[files]]
