@@ -34,7 +34,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "084ec914d4aba5a139e1bfaeb67c6a6c7cf1ba22cfbf5ef96a46db49c830db96"
+hash = "ec814ceecff372922e141f57bfaf2206dc54b0d977a265cd5cde4aefd4cc9c00"
 metafile = true
 
 [[files]]
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "79b5821cecd73ba5167a6b152c78df308b1208e9f2c27885a6bde69910b1310f"
+hash = "0e0ad3001c99ec281023ad8fefb7ace9931cb8cbda6d4ed18abf2b47c02320da"
 metafile = true
 
 [[files]]
