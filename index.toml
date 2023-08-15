@@ -34,7 +34,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "ec814ceecff372922e141f57bfaf2206dc54b0d977a265cd5cde4aefd4cc9c00"
+hash = "d4e882278d0a8d863a069df56f6e473e81e79c48f8cc6e700a56f297847178ca"
 metafile = true
 
 [[files]]
@@ -104,12 +104,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b73d4f34c666ccc6785a6f27207e4658951a6935590f06178b30f51876f93264"
+hash = "5aa33cf19de168fa9da2421aff76367a5b7206d9f5ffd1dbbce4bff2a47a88ef"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "fc62c8ca609288aae3ab5368a40f29bf18f21df923158b8e5a008b45356a33a8"
+hash = "a79372aab7fafc1c2600351bf6ff2e7d51d9cab2fc0f39cc1d38e5848482035b"
 metafile = true
 
 [[files]]
