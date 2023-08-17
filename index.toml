@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "a79372aab7fafc1c2600351bf6ff2e7d51d9cab2fc0f39cc1d38e5848482035b"
+hash = "f93392889cca4c2e3f55ee629eb9b8afeb4759ba9afbc976254f8f1fa7059866"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
+hash = "7ffa8a332d46b6b412904e52353d7095b4709de406699d75bc31dc99ce416487"
 metafile = true
 
 [[files]]
