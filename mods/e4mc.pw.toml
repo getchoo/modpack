@@ -1,16 +1,16 @@
 name = "e4mc"
-filename = "e4mc-4.0.0+1.19.4-fabric.jar"
+filename = "e4mc-4.0.1+1.19.4-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/EaPCW4md/e4mc-4.0.0%2B1.19.4-fabric.jar"
+url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/vVFlVRt7/e4mc-4.0.1%2B1.19.4-fabric.jar"
 hash-format = "sha1"
-hash = "a98f4733559128b879d6178972d1c3a880284310"
+hash = "458253f15e3c5bb0d5354f42f3eedc5b1a71472c"
 
 [update]
 [update.modrinth]
 mod-id = "qANg5Jrr"
-version = "EaPCW4md"
+version = "vVFlVRt7"
 
 [option]
 optional = true
