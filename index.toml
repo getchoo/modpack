@@ -34,7 +34,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d4e882278d0a8d863a069df56f6e473e81e79c48f8cc6e700a56f297847178ca"
+hash = "c1f8f41882416f428df817680e011795b56e1894594fd663eba03e48b56fbdc6"
 metafile = true
 
 [[files]]
@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "14cc4a22ff95357f268e55e99728742c6667e4ad1a3272bb708fb2702ffc5f82"
+hash = "2c8dba30f0dd63974cba6e2a30bd6a60f1d69bddce537e5cc2137278926d39e0"
 metafile = true
 
 [[files]]
