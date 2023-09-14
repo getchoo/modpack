@@ -34,7 +34,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "c1f8f41882416f428df817680e011795b56e1894594fd663eba03e48b56fbdc6"
+hash = "fc47c198490faa6448c404d5d80c7ab7afc4481ec005a137733efb4d41aadd9c"
 metafile = true
 
 [[files]]
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "8bb3c5240e6ae1a8ee532a0074e4e8964d8b7229ac5e4e80362548bb4d510e02"
+hash = "edf6a6fa71746a3927c2d7f3c2e46be7e7ef97bb3bd8f0eb6abd84989b9257e1"
 metafile = true
 
 [[files]]
