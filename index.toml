@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "files/.packignore"
-hash = "9280b57f3953a92e4c50112002012ae86f673b5c4055b4618c9c4c55f361512d"
-
-[[files]]
-file = "files/instance.cfg"
-hash = "4554f7e3edc9590887e2d6f536bfe37840ab39fd2b57aa420afac09b32dc4d39"
-
-[[files]]
-file = "files/mmc-pack.json"
-hash = "08068b4a5065a38836a0072279adda2637d66a4e8331e4bfb499ce6b6adc4fd0"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true

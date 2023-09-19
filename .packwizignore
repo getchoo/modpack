@@ -4,4 +4,4 @@
 /.github
 /flake.nix
 /flake.lock
-/checksums.json
+/files/

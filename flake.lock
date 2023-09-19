@@ -16,18 +16,20 @@
       }
     },
     "packwiz2nix": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
       "locked": {
-        "lastModified": 1683887515,
-        "narHash": "sha256-eYxlzal5DNUvpv3F9W42wREdRi6h1hceOcgoiN6gvRg=",
-        "owner": "getchoo",
-        "repo": "packwiz2nix",
-        "rev": "1c9c0ef2e40fbd1a921b446d8fe5884e645e4308",
-        "type": "github"
+        "lastModified": 1695101166,
+        "narHash": "sha256-Cd8WD1PPVMo5i+Jwa/UIJ1oGn5fUkBhaw882IjspaEU=",
+        "path": "/home/seth/repos/packwiz2nix",
+        "type": "path"
       },
       "original": {
-        "owner": "getchoo",
-        "repo": "packwiz2nix",
-        "type": "github"
+        "path": "/home/seth/repos/packwiz2nix",
+        "type": "path"
       }
     },
     "root": {
