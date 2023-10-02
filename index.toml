@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "23583083d03c8effa3dca4c17c7da2fcf57d653292b02898afe8d7029be6b0d7"
+hash = "c8357e07123ddee88dd811826ab2523e672fde2d51b3982a90bd59f3b29f0ba1"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "6c7c8c7f424804a1efcfa2a6828d365c3a68eb38016e31f48967f45172de47ee"
+hash = "a41dbddd6d8d0500fe2dfaa5115ea56393ce8556372da24633ef681273f4dc3c"
 metafile = true
 
 [[files]]
