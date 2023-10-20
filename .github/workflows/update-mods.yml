@@ -2,16 +2,17 @@ name: Update mods
 
 on:
   schedule:
-    # run daily at 0:00 utc
-    - cron: "0 0 * * *"
+    # run on saturdays at 0:00 utc
+    - cron: "0 0 * * 6"
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   update-mods:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v3.3.0
       - uses: cachix/install-nix-action@v20
