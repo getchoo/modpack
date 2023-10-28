@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "cdb9e144b067ee1e39555e3b85dc1e68dfb1b657ac6a229d1bfb77062f3b327c"
+hash = "96b4e6fa6e7499bb1005e2143e07116b626f6d1100409ea1a1f3ff03c391dc51"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
@@ -184,12 +184,12 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "d8927be5076d9167c8e0eddf0a449516b1921c10315ac1640e37fe7465095606"
+hash = "dc0a117734b1153892a40e65301ee236c9dbe45930f04d7ab6967daaee11214a"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "c58c05a65fca731fca51d0f07f9a67f14b44341b6374fa948c6acfcb09f7ceee"
+hash = "f1e03ece85e67bc16de2f286c544f0c92a9cb1c2593d4eea650639f4b53fc4c1"
 metafile = true
 
 [[files]]
@@ -214,5 +214,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "919980794d91ef11531ac64fc9a110f6d8ddebf8a7ed7e851529d2781f55816b"
+hash = "a94b26104a8ff5dafab4b0824eca6f44ed71aa0ed53b150a2659b1d7361a2b31"
 metafile = true
