@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "0030bc16826c2a205edbfa66100f15ea863a4ef838a22e796ec4e9b18f5354bf"
+hash = "28778f8fb3ec4e10da4f8022a664b3f92a90d6845dcf05f0eca9810cdef19d19"
 metafile = true
 
 [[files]]
@@ -214,5 +214,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a94b26104a8ff5dafab4b0824eca6f44ed71aa0ed53b150a2659b1d7361a2b31"
+hash = "1feec673626f914308c517f2ed29317cb1ca3124d7854667449cf8bbed3e126d"
 metafile = true
