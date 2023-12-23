@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6e6ee1bf66d6977728d3bf5404338c87a0a4ad5260833efcd912aaaca776cf8f"
+hash = "689ddf2293756df17ff80a4ed9ff181419f1f3fdfd450036f31e717db15e9447"
 metafile = true
 
 [[files]]
@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "0938c0099a2d70a85df5e5554f41fee295b9a3289bf086d745ebf09392bb395e"
+hash = "71ee29eb006723738ae0fd8ac770f4f5e7b959236a4ff86af5b0b5acd8821ac8"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
+hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
 metafile = true
 
 [[files]]
