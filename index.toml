@@ -69,12 +69,12 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "71ee29eb006723738ae0fd8ac770f4f5e7b959236a4ff86af5b0b5acd8821ac8"
+hash = "32555a5ea778bd645e45c552129306753c04b213c97db29240ec60371a325319"
 metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "e84f17c028b9c67be7a4725ab3fe37fbc6e1071868f357bff153337229813d86"
+hash = "c2fee69886e8ce1010ca02d8eb532585155339eeb6e29cc30d508a50600a07e2"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
+hash = "f395370c85fadafff7f793cd66a875c927c381320cfdb5a638ad3bc7b59fc01e"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
+hash = "6e8f54238b405650aea8f045b138b86d13311fabe8bc0bbebd35f3844c9148e4"
 metafile = true
 
 [[files]]
