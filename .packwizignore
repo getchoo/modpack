@@ -1,7 +1,8 @@
-/README.md
+/.gitattributes
+/.gitignore
+/files
 /LICENSE
-/nix
-/.github
-/flake.nix
+/README.md
 /flake.lock
-/checksums.json
+/flake.nix
+/notes.md
