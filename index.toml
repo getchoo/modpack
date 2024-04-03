@@ -46,6 +46,11 @@ hash = "1b19299e52a1cb9700c63afee1b7e0658c7694e4ec2731c8901beb9ed1150701"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "179d1b7ca85bd3202749e2cc95413daec331dd37dbcf66d07f12a2cd1c0ee397"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "96478690ba4437d4f27af541c9365bd9dfd30674c3dc12fb3a1702e358a16a0c"
 metafile = true
