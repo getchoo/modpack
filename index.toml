@@ -156,6 +156,11 @@ hash = "249dec365f1a15ef6d1da48910e5fa04c039e95375ce246d5a771941b6b8892c"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "21754d4ce6b04460c01f512fa886c49933c93195017919c5ff3d31dbe0baf960"
+metafile = true
+
+[[files]]
 file = "mods/ok-boomer.pw.toml"
 hash = "2390504b56605e6464ecddda031cb221d46871437ecb4035783feb67faa1bff1"
 metafile = true
