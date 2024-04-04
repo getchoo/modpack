@@ -11,18 +11,8 @@ hash = "e9999d5ccd9cba3a02989e8887ee877e9dcf2daf6fb6d5aa8f1c960e42de6669"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
-metafile = true
-
-[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "0ef0b5e32ac07c2da14525b69f94a7190909e4c2dac2dd0720e9d1eba484d92f"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "d2a55b5ea4c0bf49de881d377918e07b025ddc51c596debe7af6fe478dbbd9a5"
 metafile = true
 
 [[files]]
@@ -111,6 +101,11 @@ hash = "919e0f9bdf11b4960591cef1f0cb7fe6bb8bbf21135b423c0d014b00b4a06cb8"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "074dc3c92b31f4ee4e0e13d7a03d9e2fe66a98fd58447e49fee7c11d1c751389"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "8ae858623d5cbb4d5a51576600d671d57320af43aa9ab680e441cc60ea568f17"
 metafile = true
@@ -176,11 +171,6 @@ hash = "a39d62fa0ae0067676767e1dd45c2cd46d85ee0d6b1784778a0eb0d9ad4ca3c0"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "fa061dc6468aa501d456d99f4a73a92076a00944b62faefff122c7ce4c2c4e18"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
 metafile = true
@@ -198,9 +188,4 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8511be483f2e792e5d70a479169e60a4396991fdcc646aa47b6766715043bea2"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "0e64714c116db266b1c35b0fea980d0ad75ddee7639d13f89d5cedf6c7e336e7"
 metafile = true
