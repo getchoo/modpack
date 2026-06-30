@@ -1,13 +1,13 @@
 name = "More Culling"
-filename = "moreculling-1.20.4-0.22.1.jar"
+filename = "moreculling-fabric-1.21.11-1.6.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/51shyZVL/versions/KpriJ15b/moreculling-1.20.4-0.22.1.jar"
-hash-format = "sha1"
-hash = "2b373ab4657fa06682957fbe5bd15f14381e4353"
+url = "https://cdn.modrinth.com/data/51shyZVL/versions/wOzykoLV/moreculling-fabric-1.21.11-1.6.2.jar"
+hash-format = "sha512"
+hash = "58cec88e84835c543d8604411f89a0984abe51f0332860354355ede290d2442fc33a86ecda1766e0b1a82ba4edfab27f3c9f6855c0af3234e200218b892756f2"
 
 [update]
 [update.modrinth]
 mod-id = "51shyZVL"
-version = "KpriJ15b"
+version = "wOzykoLV"

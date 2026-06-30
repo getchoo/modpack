@@ -1,13 +1,17 @@
 name = "FallingTree"
-filename = "FallingTree-1.20.4-1.20.4.3.jar"
+filename = "FallingTree-1.21.11-1.21.11.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Fb4jn8m6/versions/mb15RrXi/FallingTree-1.20.4-1.20.4.3.jar"
-hash-format = "sha1"
-hash = "ca13eb4798f4bb8b9a4f55f3733959857a867b5d"
+url = "https://cdn.modrinth.com/data/Fb4jn8m6/versions/Hnj3s9Ez/FallingTree-1.21.11-1.21.11.3.jar"
+hash-format = "sha512"
+hash = "56b8b86846e65f9e070ee08af1baf0b8871ea5eb233a43961d0f937a6147f039eed44794a6b3661b4748e4da037e40aa48b903936960585b626bc9f5e9e308d9"
 
 [update]
 [update.modrinth]
 mod-id = "Fb4jn8m6"
-version = "mb15RrXi"
+version = "Hnj3s9Ez"
+
+[option]
+optional = true
+description = "For ez wood farming"

@@ -1,13 +1,17 @@
 name = "EntityCulling"
-filename = "entityculling-fabric-1.6.4-mc1.20.4.jar"
+filename = "entityculling-fabric-1.10.5-mc1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/7JR5qJ8f/entityculling-fabric-1.6.4-mc1.20.4.jar"
-hash-format = "sha1"
-hash = "ee3804cc07063cc5f67a3c9ed79bd8f2fbefab44"
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/sP0vNbeN/entityculling-fabric-1.10.5-mc1.21.11.jar"
+hash-format = "sha512"
+hash = "67c4fb10bec6dba3368e65cd57f1bb53b9ca4172b2dc391c3d524f2c6e88c8782d8ff5f9634d549fbf7590296d18042cca84b12f3a8035a12f2ab555420df5a9"
 
 [update]
 [update.modrinth]
 mod-id = "NNAgCjsB"
-version = "7JR5qJ8f"
+version = "sP0vNbeN"
+
+[option]
+optional = true
+description = "Not available for 26.x+"

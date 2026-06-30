@@ -1,17 +1,17 @@
 name = "Mouse Wheelie"
-filename = "mousewheelie-1.13.3+mc1.20.4.jar"
+filename = "mouse-wheelie-1.16.3+mc1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/73ivfwq5/mousewheelie-1.13.3%2Bmc1.20.4.jar"
-hash-format = "sha1"
-hash = "df092b18978ff3f9bae332f8ddf31b29850f2edc"
+url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/ISyBkZOr/mouse-wheelie-1.16.3%2Bmc1.21.11.jar"
+hash-format = "sha512"
+hash = "2d54c430b7857126fbb0627a0e3253914f80906d215b454e0ae72f77a9fc01b7c03e1d455638eb9aa5a1bfc3675d8ef4f5a73eab357dd0995b5a0770b8bb8406"
 
 [update]
 [update.modrinth]
 mod-id = "u5Ic2U1u"
-version = "73ivfwq5"
+version = "ISyBkZOr"
 
 [option]
 optional = true
-description = "cool inventory management tweaks"
+description = "Cool inventory management tweaks"

@@ -1,13 +1,17 @@
 name = "Xaero's World Map"
-filename = "XaerosWorldMap_1.38.1_Fabric_1.20.4.jar"
+filename = "xaeroworldmap-fabric-1.21.11-1.41.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NcUtCpym/versions/2lbtkEPK/XaerosWorldMap_1.38.1_Fabric_1.20.4.jar"
-hash-format = "sha1"
-hash = "a893df207b8b857f6116d7e003eba99dfc697bef"
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/1rgcnGza/xaeroworldmap-fabric-1.21.11-1.41.2.jar"
+hash-format = "sha512"
+hash = "a51a6b0529871f07afeeedca1785724da4ca619c23356f3fbd53907c67940565f97c0a5a1d0599fa3acee7789d63623017ca3271af4ae25f8d5b0233b0fda54c"
 
 [update]
 [update.modrinth]
 mod-id = "NcUtCpym"
-version = "2lbtkEPK"
+version = "1rgcnGza"
+
+[option]
+optional = true
+description = "Always-on world map"

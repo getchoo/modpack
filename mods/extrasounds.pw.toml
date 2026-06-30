@@ -1,0 +1,17 @@
+name = "ExtraSounds"
+filename = "extrasounds-v3-legacy-3.0.0+1.21.11+1.14-build.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uPWCQrVL/versions/HohOPiWf/extrasounds-v3-legacy-3.0.0%2B1.21.11%2B1.14-build.2.jar"
+hash-format = "sha512"
+hash = "ba96951937dc9f67a4a0c29548306a641220b0a349f9cba2deca62c0cae197c228ae1dcfc0aacd94362d9ba7999a9497edc9e09c09e9fd4b57d6e2354a1b4e50"
+
+[update]
+[update.modrinth]
+mod-id = "uPWCQrVL"
+version = "HohOPiWf"
+
+[option]
+optional = true
+description = "Add some nice sounds to your game"

@@ -1,13 +1,17 @@
 name = "Not Enough Animations"
-filename = "notenoughanimations-fabric-1.7.1-mc1.20.4.jar"
+filename = "notenoughanimations-fabric-1.12.4-mc1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/ZLjUeuU8/notenoughanimations-fabric-1.7.1-mc1.20.4.jar"
-hash-format = "sha1"
-hash = "4c3f138404abf4ef8c90e0b14df4aab8af1e4cba"
+url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/LU326iui/notenoughanimations-fabric-1.12.4-mc1.21.11.jar"
+hash-format = "sha512"
+hash = "32a75704d907c3a6c63d3068971b8d10f2ea666589b14d9de1534d8623cff87a15cd86d999fc1ca4c054b434c104028b6d0fc522dd75af638cc5aebe42621a73"
 
 [update]
 [update.modrinth]
 mod-id = "MPCX6s5C"
-version = "ZLjUeuU8"
+version = "LU326iui"
+
+[option]
+optional = true
+description = "Add fun animations to everything"

@@ -1,17 +1,17 @@
 name = "Continuity"
-filename = "continuity-3.0.0-beta.4+1.20.2.jar"
+filename = "continuity-3.0.1-beta.1+1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1IjD5062/versions/JXhQlDZl/continuity-3.0.0-beta.4%2B1.20.2.jar"
-hash-format = "sha1"
-hash = "f9eaa5fc75d2747dbe14818dfde04eaf7152ae3c"
+url = "https://cdn.modrinth.com/data/1IjD5062/versions/mX1iknM1/continuity-3.0.1-beta.1%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "b092e95668bf5e32d531842d920e99f865213eaf3e7c26759b51e5a95ef2702c2c0485bba6d8adf4543e8d71680d5a05fad68e94159e8e507033b516b736eb60"
 
 [update]
 [update.modrinth]
 mod-id = "1IjD5062"
-version = "JXhQlDZl"
+version = "mX1iknM1"
 
 [option]
 optional = true
-description = "optifine connected textures for fabric/quilt"
+description = "Optifine connected textures for Fabric/Sodium"

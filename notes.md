@@ -9,14 +9,8 @@ Moving from Quilt to Fabric was mainly just to update my game
 version
 
 - ~~LambDynamicLights~~ it's back!
-- LambdaBetterGrass
-    - Not *as* cool, but would still like to use
+- ~~LambdaBetterGrass~~ this too!
 - Inspecio
     - Probably what I miss most
 - Effective
     - Also really miss
-
-## Oudated/Unmaintained
-
-- ExtraSounds
-
