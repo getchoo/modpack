@@ -1,16 +1,16 @@
 name = "ExtraSounds"
-filename = "extrasounds-v3-legacy-3.0.0+1.21.11+1.14-build.2.jar"
+filename = "extrasounds-3.0.0+26.2-alpha.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uPWCQrVL/versions/HohOPiWf/extrasounds-v3-legacy-3.0.0%2B1.21.11%2B1.14-build.2.jar"
+url = "https://cdn.modrinth.com/data/uPWCQrVL/versions/8HoHQBVU/extrasounds-3.0.0%2B26.2-alpha.1.jar"
 hash-format = "sha512"
-hash = "ba96951937dc9f67a4a0c29548306a641220b0a349f9cba2deca62c0cae197c228ae1dcfc0aacd94362d9ba7999a9497edc9e09c09e9fd4b57d6e2354a1b4e50"
+hash = "03f09963eab73f25d7b8db0c5df764537cefc6ec95c73f1f502b17838edd2e65259849f5bafc682acebc7f3c3c08c74df002410f35414e222ede75eea0c7b7cf"
 
 [update]
 [update.modrinth]
 mod-id = "uPWCQrVL"
-version = "HohOPiWf"
+version = "8HoHQBVU"
 
 [option]
 optional = true

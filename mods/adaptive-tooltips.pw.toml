@@ -1,16 +1,16 @@
 name = "Adaptive Tooltips"
-filename = "AdaptiveTooltips-1.3.0-fabric-1.20.2.jar"
+filename = "AdaptiveTooltips-1.4.1+26.2-universal.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/wFv8yCxM/versions/MgbaLEPy/AdaptiveTooltips-1.3.0-fabric-1.20.2.jar"
+url = "https://cdn.modrinth.com/data/wFv8yCxM/versions/RHdxeFtz/AdaptiveTooltips-1.4.1%2B26.2-universal.jar"
 hash-format = "sha512"
-hash = "4e7e930360a122eef64874a88f3410e5b050559782a8270a37e80803753af2ad1be6d9c6bd68f09ddb88e327428ff37f7e0230991fdecdd10a32b078934c7206"
+hash = "a86479cf10591e2aa9a760b6c8da52a978173415f07cd0d5903fe3486d93abcb4aed1040826fcb0675cacefd0ed2719e1ae7e0bd58b95b9b07637f4518529799"
 
 [update]
 [update.modrinth]
 mod-id = "wFv8yCxM"
-version = "MgbaLEPy"
+version = "RHdxeFtz"
 
 [option]
 optional = true
