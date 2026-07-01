@@ -11,7 +11,3 @@ hash = "67c4fb10bec6dba3368e65cd57f1bb53b9ca4172b2dc391c3d524f2c6e88c8782d8ff5f9
 [update.modrinth]
 mod-id = "NNAgCjsB"
 version = "sP0vNbeN"
-
-[option]
-optional = true
-description = "Not available for 26.x+"
