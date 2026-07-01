@@ -11,6 +11,11 @@ hash = "ca3ae2608987185814c118388f28057f729d866ee1abbc97f3650141d213fa35"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "66b7a9efd995cd5708545c14688891ad0f877ae0e3a0f663f397dc5b5f5011ab"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "a8785544fb032c24853b8ed9bb15d65c30312f1ee5f7ada3e73a0350512702a0"
 metafile = true
@@ -37,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "cdcf4b27c4690fc4c4e54ea243885db63e73cd57341ce6f72e81c2b224d669b2"
+hash = "3fd0b273bc517485883da24e906631849f3b3a6ff253e12b719d3e33aa41902e"
 metafile = true
 
 [[files]]
@@ -81,8 +86,18 @@ hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "c0986ab2e356f7f0cb595556fe3a72f9f1c29f22faa1af8379bb4e0131e1cb0b"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "7f6c3d61a2cd0bac0c450339250a701a281f20c4b09293cff51d2f4807a99c63"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+hash = "48ad24e9cc714543b55180cba8945af9b3706217f4b39a113a92501739855db1"
 metafile = true
 
 [[files]]
@@ -151,6 +166,11 @@ hash = "b3eaa138463fe2ba27dfd046c87e1f9d95e0201e36563e116a2a27d59fb09338"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scroll.pw.toml"
 hash = "d7f256c4bd9e5d96a2dd0e4345fc0bfe034ff025712bb53e44daafa0129bb120"
 metafile = true
@@ -166,6 +186,11 @@ hash = "3e851c38b90b3bf0541bab5641e409b237b076754d1b685575b4a677deff6b76"
 metafile = true
 
 [[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "9ce3767540efbf35e0a0c266040c9879efc9136ec59cd38e06e45b3c3c3e90e0"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "317de41470e46391b4e1aef5cd4f91e7bcc9d9c0d75723f27d260dab56211ced"
 metafile = true
@@ -173,4 +198,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "4a3ec78067094f39fc81a3673d75ee40191dfd961f6ff960f6b967c6fd712d1b"
 metafile = true
