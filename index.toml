@@ -11,6 +11,11 @@ hash = "62feaecc7c5afcf698c72f5f5edfda9562a2b2b6da30868cd36474c813073348"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "497421d9c7549e8a1cbb08d9102ccbc48695aa96834daca398a5c1498670422a"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "8c506a09d2baf1b2036ff874e30999b499f0efa709588454a33af7293f7c9dd0"
 metafile = true
@@ -81,8 +86,18 @@ hash = "41437a15f56b00994815f2bd2371ac84232cd7a1cc29688fe81480b44a935447"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "1e2b3512fc27a24818c830b75d1fd3e8a4ca42d46954f168826d5585683cf8b1"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "6f17f50a73853e9345a5baa08304e3808ff7ee8702e7e49984ccb5354f72a6d2"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+hash = "c0caae18b4631f9e076b0a7993c52044fefe52bd9d434368eea8f704d0a327c2"
 metafile = true
 
 [[files]]
@@ -151,6 +166,11 @@ hash = "070664899b1aa90b5381c6e0081241591917c714b4b60bc37b9cc637709d4a78"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "8635a6f88d0f0e9487299a0da5507bb9f1685969a8b02772efdba6df3d9c0afa"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scroll.pw.toml"
 hash = "642a87351adecd06a8d4f11bb6e2a4f49a347658b2074ffcccb14c7579f534e5"
 metafile = true
@@ -166,6 +186,11 @@ hash = "d30ece5ef381c0394bd8b003a9130569c7a0facb44166fefd6cf97e2e9c11d5c"
 metafile = true
 
 [[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "ffe92a9980943bdaf1312eb098266a7b1d1a4e0e63ec3bd09659b8ee8e617eec"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "b944882625776a0de34f0516c5f0fd9d2f80d20ec708deae422a2f407e7cd1d3"
 metafile = true
@@ -173,4 +198,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "da2b918e1ae55d1073b87bfc3236f37d106f80e0e295e99d374642f35531ada8"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "0d3547f3c0c7d8ee6d017edf78f6bba721e6003c4906d619cb059027751e3cfd"
 metafile = true
