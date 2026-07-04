@@ -36,6 +36,11 @@ hash = "6546d817ecad6d298683fc82414278679886b0d4455f5a81c3503bf61ee83a7b"
 metafile = true
 
 [[files]]
+file = "mods/custom-block-highlight.pw.toml"
+hash = "0fc473602ba2179d86ebfd980137f87ddba8f4bc30b037229821adbca50acfb7"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "5c9483633e102e11a35cc0111eac9117712f25d997e998de8c5e77feb554ef22"
 metafile = true

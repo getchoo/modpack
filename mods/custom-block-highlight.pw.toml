@@ -1,0 +1,17 @@
+name = "Custom Block Highlight"
+filename = "blockhighlight-1.21.11-2.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Eps2maQC/versions/KEWWFiUQ/blockhighlight-1.21.11-2.7.jar"
+hash-format = "sha512"
+hash = "d396724ccc066c7498d27dc70ec4ab79ff8f88fa8ea7a0681e6afd29b36197706b90a69f466f0202b802b81d13fcdb6c6e74cb71ebba35507bae85034409d0cd"
+
+[update]
+[update.modrinth]
+mod-id = "Eps2maQC"
+version = "KEWWFiUQ"
+
+[option]
+optional = true
+description = "Block highlight for Batiah"
