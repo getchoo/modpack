@@ -1,0 +1,17 @@
+name = "spark"
+filename = "spark-1.10.173-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l6YH9Als/versions/DdMsOH3O/spark-1.10.173-neoforge.jar"
+hash-format = "sha512"
+hash = "f40b72761c2137debe90c836a32918e4e3aa2629db4b50e9b78bdcacdbe6e484682ba7e11535bee7fcf581abe944948dde48dda37ee45d3966a5d7e450191173"
+
+[update]
+[update.modrinth]
+mod-id = "l6YH9Als"
+version = "DdMsOH3O"
+
+[option]
+optional = true
+description = "Profiling tools for your game"

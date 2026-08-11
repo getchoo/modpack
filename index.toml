@@ -41,6 +41,11 @@ hash = "2f4aab8106abdbf4482e8a0df58edf298f0359d1fac0e56dd59adfa9906b7d62"
 metafile = true
 
 [[files]]
+file = "mods/cosmetica.pw.toml"
+hash = "8e8186d427a30e844961e791f9911fee3342ffe99fe1ce77b465a72f461bcf7e"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "ac5bdd516ad97f66995c08708bd9f80140bb1dcf9a46be820ffda01ac43f1951"
 metafile = true
@@ -158,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "6348d8f4fe3207b61d2709b9154209dd9601469a49fcb28f5f6bcc212f5b22c6"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "b027f2051203f2c6ab528ed21e806c801effd5388ca6dbe215f4eea946616ab2"
 metafile = true
 
 [[files]]
