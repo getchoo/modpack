@@ -1,0 +1,17 @@
+name = "Health Indicator"
+filename = "health-indicator-4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hxaUKE37/versions/3tWywoHS/health-indicator-4.jar"
+hash-format = "sha512"
+hash = "f910507d9208de3cf76dd93da1160ed39a71afedd33f43933c7bda3664f1db3b19a297ed8a01c34ee17672d3eb73f8d4aed8613007f2d90ce377569567cf143d"
+
+[update]
+[update.modrinth]
+mod-id = "hxaUKE37"
+version = "3tWywoHS"
+
+[option]
+optional = true
+description = "Show health indicators above players and mobs"

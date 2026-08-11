@@ -11,6 +11,16 @@ hash = "62feaecc7c5afcf698c72f5f5edfda9562a2b2b6da30868cd36474c813073348"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "3635aff985b59e95eabf5ca9be77d20d25c9d4e2b20f97df42639ea794eda1f3"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "be94f4eee46fe7ef840dae32e1a749db33adf0a8bf9c34f0b5d922f7c4a8d00a"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "497421d9c7549e8a1cbb08d9102ccbc48695aa96834daca398a5c1498670422a"
 metafile = true
@@ -78,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/health-indicator.pw.toml"
+hash = "9de8f03feea59777473459f631f5233ef467e46c39398bfb520c22154e6c8748"
 metafile = true
 
 [[files]]
@@ -151,6 +166,11 @@ hash = "f98734ea963c5dff15157c42e055a38269fded640e3d76268e8b5f4743df01c7"
 metafile = true
 
 [[files]]
+file = "mods/nuit.pw.toml"
+hash = "4c4529424582311e30f8f04a26cc6769cd94ca47adad306b0fe2f5b03390091d"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "8f4023763b8f31ce49223c9452b79315b1970c710673783a308ea768be348fc9"
 metafile = true
@@ -162,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "070664899b1aa90b5381c6e0081241591917c714b4b60bc37b9cc637709d4a78"
+hash = "ef279e00d43ecde362c64176cbbe77c8ce4ef5f36b4343c1efa5942b3af33c45"
 metafile = true
 
 [[files]]
@@ -204,3 +224,7 @@ metafile = true
 file = "mods/zfastnoise.pw.toml"
 hash = "0d3547f3c0c7d8ee6d017edf78f6bba721e6003c4906d619cb059027751e3cfd"
 metafile = true
+
+[[files]]
+file = "shell.nix"
+hash = "d9cf86e19bd28105349ae33485e54fc9fe91db3f47ff785291098c301f0cf50f"
