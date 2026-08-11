@@ -46,6 +46,11 @@ hash = "cc2f6e77fa2ef21560de255f9f855ca8092c15de4cbcdba31083459135250c56"
 metafile = true
 
 [[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "5fb4eb240902121cf07eba23ad7e528459ea0a1a96100d3d50370cb9af809b52"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "0fb79fee3149d2e19554fc2a8209b150d58c3c3fc5820eb3429ab9fdc583dc69"
 metafile = true
