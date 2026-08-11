@@ -1,3 +1,6 @@
+# Exclude worktrees
+.worktree/
+
 # Exclude exported CurseForge zip files
 *.zip
 
@@ -6,4 +9,5 @@
 
 # Exclude nix files
 result
+result-*
 .direnv
