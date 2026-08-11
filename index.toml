@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "b027f2051203f2c6ab528ed21e806c801effd5388ca6dbe215f4eea946616ab2"
+hash = "ff14e475f68113c93a6f6ae112a4dba01519e963789329f4e8dc3b847e479fbd"
 metafile = true
 
 [[files]]
@@ -194,7 +194,3 @@ metafile = true
 file = "mods/zfastnoise.pw.toml"
 hash = "0f97c9210e4c180c80f15d7b0670f62c05295cf1b0434ed8a5215ccc2e2f09b7"
 metafile = true
-
-[[files]]
-file = "shell.nix"
-hash = "d9cf86e19bd28105349ae33485e54fc9fe91db3f47ff785291098c301f0cf50f"
