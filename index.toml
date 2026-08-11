@@ -26,11 +26,6 @@ hash = "497421d9c7549e8a1cbb08d9102ccbc48695aa96834daca398a5c1498670422a"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "8c506a09d2baf1b2036ff874e30999b499f0efa709588454a33af7293f7c9dd0"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "183afb9d10363afd2833a957aeb7ccdfb74aff8c508cf4565bdc5d8eeb020a9a"
 metafile = true
@@ -208,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "ffe92a9980943bdaf1312eb098266a7b1d1a4e0e63ec3bd09659b8ee8e617eec"
+metafile = true
+
+[[files]]
+file = "mods/widgets.pw.toml"
+hash = "9db840dce36c986066b2142463a33eb8808443ea44224743b2414ef67e6e760c"
 metafile = true
 
 [[files]]
