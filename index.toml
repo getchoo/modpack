@@ -1,6 +1,231 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".worktree/forge/.packwizignore"
+hash = "c6d09acff5502c88585a176b28e3b7fd648b0b0eda1ac4894db6eb6334c97526"
+
+[[files]]
+file = ".worktree/forge/LICENSE"
+hash = "abbeae420fab34b2fd1c06e7bb22150145ceb4a0a7de9fd6329c7612c7636612"
+
+[[files]]
+file = ".worktree/forge/README.md"
+hash = "17cbc11bdce5c175e7ebddba0c0d874ffa9c2eff868409a36de131301de3e0e5"
+
+[[files]]
+file = ".worktree/forge/files/.packignore"
+hash = "9280b57f3953a92e4c50112002012ae86f673b5c4055b4618c9c4c55f361512d"
+
+[[files]]
+file = ".worktree/forge/files/instance.cfg"
+hash = "4554f7e3edc9590887e2d6f536bfe37840ab39fd2b57aa420afac09b32dc4d39"
+
+[[files]]
+file = ".worktree/forge/files/mmc-pack.json"
+hash = "08068b4a5065a38836a0072279adda2637d66a4e8331e4bfb499ce6b6adc4fd0"
+
+[[files]]
+file = ".worktree/forge/index.toml"
+hash = "7dc1d1cd5ffe33d53ac7ee16e1136d1965f2ec1db4f8bcac66173399243061f7"
+
+[[files]]
+file = ".worktree/forge/mods/adaptive-tooltips.pw.toml"
+hash = "2450bc45f91a26f9b4b9d582a55521238bd01f5a9334562a5ce3d6c7354a1da8"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/appleskin.pw.toml"
+hash = "944104c0ced6f5d5a7dae365d0b76a86f13e99ccbf0f93d0fde609c64fac304f"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/badoptimizations.pw.toml"
+hash = "521b96af7a7239c46e6ce5d93ec334761a6d63a0b4b5b8aa4a82268f4e200807"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/better-block-entities.pw.toml"
+hash = "fd2e84dc939f2d17795b5d2a6a7399e7fae97c8fea358743dc6e390012cddf07"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/c2me-neoforge.pw.toml"
+hash = "f5542a92c143aedd1e3e8315555ba912648d5a372336eda26f6efefea7b2f9a6"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/chat-heads.pw.toml"
+hash = "28c11cf5a70b0cae0552a88f8eeb1d17a33cd083288abf39fa6dee88238a9b22"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/chatanimation.pw.toml"
+hash = "3e747d28ebea9dbe9adeca96280c92fbdcac4993bfc3466668650241a4e6dd5f"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/cloth-config.pw.toml"
+hash = "2f4aab8106abdbf4482e8a0df58edf298f0359d1fac0e56dd59adfa9906b7d62"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/entity-model-features.pw.toml"
+hash = "ac5bdd516ad97f66995c08708bd9f80140bb1dcf9a46be820ffda01ac43f1951"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/entitytexturefeatures.pw.toml"
+hash = "3fea734f76882ce342dc63ce589613b9150be8186861d580b8801e90cb9829c1"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/extrasoundsforge.pw.toml"
+hash = "9a1a8e1d1cc17060f159f0e4cde98747a9d29d981669e056ada948281c8b420a"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/fallingtree.pw.toml"
+hash = "049ed233461eaabddf7f96058e8325beb9a109527aed5544bacd803f8556a39c"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/ferrite-core.pw.toml"
+hash = "ecd9e70faca5584f8cb488905c333f9eeef03193674f03692a7bb32f1283fcdc"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/fusion-connected-textures.pw.toml"
+hash = "cfa1a09471b44e25f3123c4b488c20b0afae2b0821a5c6a7cd38bd6f36cd1f73"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/health-indicator.pw.toml"
+hash = "9de8f03feea59777473459f631f5233ef467e46c39398bfb520c22154e6c8748"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/immediatelyfast.pw.toml"
+hash = "15c6bf8b93c2c40583fe429c4e250656e986307628cf69dab3b051b2aa236ea2"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/immersive-optimization.pw.toml"
+hash = "72a840f1813b958d9bd70c529138ad6a5110b7f7714cb35023008764c119b7a5"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/inventory-sorting.pw.toml"
+hash = "a4f348fc01405215449fe9936d2446396096cfbc1efc6a0bf9098ef22ccb2d73"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/iris.pw.toml"
+hash = "2649163c6026af7b53670654e12ea8cd62b2951f486c9fd47a0a5119f940e624"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/ixeris.pw.toml"
+hash = "6443b90af7bfc2f04f764f509297a62711be120f401818415a5577c5c234724f"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/jade.pw.toml"
+hash = "38ee01d5fa47b0f06632a89b8042602670dc589b06b35661577d838b449c337a"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/jei.pw.toml"
+hash = "e02a4921a64a39633b33d7e04a0945d889c6169fc2b996182bb7b262c3820e39"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/lambdynamiclights.pw.toml"
+hash = "8a55ec2bc0f214d9d323746dc0cf81c384739d598cea7bb738f18da998c5d951"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/lithium.pw.toml"
+hash = "6c26b17b40a3d91c5a3043c987aa753faa2d3d13b6c20d319cbb9e04b59169cf"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/moreculling.pw.toml"
+hash = "63166013a180b752ace982eacb1b567ac539a3e5c9316c1a3b8d9eadd6bf3778"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/no-chat-reports.pw.toml"
+hash = "5671100d43e4380b9b2e4a420b0f50b5aae3cefad6047f7cd6f55da7276a431d"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/nuit.pw.toml"
+hash = "f1fbc83d57c50503c649a5c9f451988938dda84b607c14d6a4c27ef6b42b31ab"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/ok-zoomer.pw.toml"
+hash = "8f4023763b8f31ce49223c9452b79315b1970c710673783a308ea768be348fc9"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/ping-view.pw.toml"
+hash = "f4f1a538a388ae296daf56b9855efd9ae5db38be07f83aa579c38f3b1532182b"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/raised.pw.toml"
+hash = "d4a957c5abcb5c8728241e12257d1f5b6d9fd5b19f09287e4cd57c6f2c02944b"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/scalablelux.pw.toml"
+hash = "8099bea3243d1b726c352a1d3b702fdbb652fec653dda4598de9beee3bef7694"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/sodium.pw.toml"
+hash = "6348d8f4fe3207b61d2709b9154209dd9601469a49fcb28f5f6bcc212f5b22c6"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/visuality-forge.pw.toml"
+hash = "a88f5a4ec443585daa77bdf630795b6a5faed55beb4d47c993d6bd602607ba1c"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/widgets.pw.toml"
+hash = "d7c1811c294c3d49b280a23ae1b5f34e0baaa0e8419c03bc46cf143ce5e16bab"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/xaeros-world-map.pw.toml"
+hash = "2a153a50b52c452dc18211de563f4815bf285dd52c6280ac1a63157911765a4e"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/yacl.pw.toml"
+hash = "4fb38db96190a7bb60653ac6fa2aa772ba7dd4f2ae2a7885bd1d850fa7299577"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/mods/zfastnoise.pw.toml"
+hash = "0f97c9210e4c180c80f15d7b0670f62c05295cf1b0434ed8a5215ccc2e2f09b7"
+metafile = true
+
+[[files]]
+file = ".worktree/forge/notes.md"
+hash = "8a115fa5eaad1843abcccfc4c5d63f08a82f123cc4eaa14c4d8b29a898ca4f97"
+
+[[files]]
+file = ".worktree/forge/pack.toml"
+hash = "e00edd375c1b35792310502af714921a27992856eccb743a2ead0a25e34418e1"
+
+[[files]]
+file = ".worktree/forge/shell.nix"
+hash = "d9cf86e19bd28105349ae33485e54fc9fe91db3f47ff785291098c301f0cf50f"
+
+[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "2450bc45f91a26f9b4b9d582a55521238bd01f5a9334562a5ce3d6c7354a1da8"
 metafile = true
@@ -23,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "497421d9c7549e8a1cbb08d9102ccbc48695aa96834daca398a5c1498670422a"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "8c506a09d2baf1b2036ff874e30999b499f0efa709588454a33af7293f7c9dd0"
 metafile = true
 
 [[files]]
@@ -224,7 +454,3 @@ metafile = true
 file = "mods/zfastnoise.pw.toml"
 hash = "0d3547f3c0c7d8ee6d017edf78f6bba721e6003c4906d619cb059027751e3cfd"
 metafile = true
-
-[[files]]
-file = "shell.nix"
-hash = "d9cf86e19bd28105349ae33485e54fc9fe91db3f47ff785291098c301f0cf50f"
