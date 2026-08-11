@@ -1,0 +1,17 @@
+name = "ExtraSounds Next"
+filename = "extrasounds-1.5.7+26.2-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jv7tzVE4/versions/hzNUAntd/extrasounds-1.5.7%2B26.2-neoforge.jar"
+hash-format = "sha512"
+hash = "486b5e33db00a472ab762077756b94c110e9935674c5d2789e3f4d30343e437fdc32d5c0c278373b7f3c87dcef819263a5023e0fce4835a05e80f377b3949b3c"
+
+[update]
+[update.modrinth]
+mod-id = "jv7tzVE4"
+version = "hzNUAntd"
+
+[option]
+optional = true
+description = "Add some nice sounds to your game"

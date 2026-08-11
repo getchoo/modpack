@@ -1,13 +1,13 @@
 name = "Raised"
-filename = "raised-fabric-26.2-5.1.2.jar"
+filename = "raised-neoforge-26.2-5.1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/WAxfM46i/raised-fabric-26.2-5.1.2.jar"
+url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/ISXATWN5/raised-neoforge-26.2-5.1.2.jar"
 hash-format = "sha512"
-hash = "19713931da0428708e8c5a6f947906371dd152eb6d3c8436a07cd92ecc6a7512b286387b632bdcdf3c42e9f1a5a24059934a152597f3ddc571723b5582260de4"
+hash = "942c6fcf80517ad66d4f509d6173375bb27689db671d81367c83605b7064bc692a5720b6247a73ff560431239175bd172475cb6a58bf4c8a9c4e6c6db16a6e29"
 
 [update]
 [update.modrinth]
 mod-id = "nCQRBEiR"
-version = "WAxfM46i"
+version = "ISXATWN5"

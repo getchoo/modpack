@@ -1,13 +1,13 @@
 name = "Sodium"
-filename = "sodium-fabric-0.9.1-beta.2+mc26.2.jar"
+filename = "sodium-neoforge-0.9.2-alpha.4+mc26.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AANobbMI/versions/wpTNXtBM/sodium-fabric-0.9.1-beta.2%2Bmc26.2.jar"
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/Db4rYqXN/sodium-neoforge-0.9.2-alpha.4%2Bmc26.2.jar"
 hash-format = "sha512"
-hash = "408f2c12667c2d72a4003e2313eeffc36a4f52ea388e8d0b1948809055a3403139a0a50d583dbad07d90f76276d541c5d9ac4b20934dcc1857794ee5b4e56e53"
+hash = "9b631893abee8af015b578166dfa21bd84f7aa45e1c0e2a3ff2b7f3870518e8089f1e120f406a07a2e5cb2d4b0d3b3229e517076bfecb8ac7a2ef8a3cc1f1c1d"
 
 [update]
 [update.modrinth]
 mod-id = "AANobbMI"
-version = "wpTNXtBM"
+version = "Db4rYqXN"

@@ -1,0 +1,17 @@
+name = "Fusion (Connected Textures)"
+filename = "fusion-1.3.12-neoforge-mc26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/p19vrgc2/versions/OVJpDSRM/fusion-1.3.12-neoforge-mc26.2.jar"
+hash-format = "sha512"
+hash = "225caaf51bbed1ae80fa8dc9c1b105136db9392c61f91b57d8aa711792d174ea77ece2844e70ae99a9b8526f47b00e271441d5d648718e956932561413bab790"
+
+[update]
+[update.modrinth]
+mod-id = "p19vrgc2"
+version = "OVJpDSRM"
+
+[option]
+optional = true
+description = "Optifine connected textures for Sodium"

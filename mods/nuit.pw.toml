@@ -1,16 +1,16 @@
 name = "Nuit"
-filename = "nuit-fabric-1.0.0-beta.4+mc26.2.jar"
+filename = "nuit-neoforge-1.0.0-beta.4+mc26.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/klz1JNMR/nuit-fabric-1.0.0-beta.4%2Bmc26.2.jar"
+url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/r4itcWXF/nuit-neoforge-1.0.0-beta.4%2Bmc26.2.jar"
 hash-format = "sha512"
-hash = "7ae611f23ff78ae84ad2334a4b8c9e35a14fe2704334692adb60981fc1c164f25f287fd3694f348fbc15f9e0b2af4d5a872700bdb7b3e53acfce551a1d6cbf0a"
+hash = "4f7231390a8d210b0a030de81fe65ca01e9da98dc4ead4eb0b58a535bbc8aa196e6c7e5f195948b6818ec5088c8e2c4675e57f3dba1b82128df99ac8684ef80a"
 
 [update]
 [update.modrinth]
 mod-id = "YBz7DOs8"
-version = "klz1JNMR"
+version = "r4itcWXF"
 
 [option]
 optional = true

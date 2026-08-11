@@ -1,13 +1,13 @@
 name = "Ping View"
-filename = "pingview-fabric-1.6.jar"
+filename = "pingview-neoforge-1.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/gvl7lVcV/versions/C9VPqSKD/pingview-fabric-1.6.jar"
+url = "https://cdn.modrinth.com/data/gvl7lVcV/versions/DbIjG4G7/pingview-neoforge-1.6.jar"
 hash-format = "sha512"
-hash = "1c548f0e95c6846092c2cf5111886daed19de06f8a3422656286faee51c36e571d0196758788d4382f618191169170219f7d1d131bf52aa3f2ff5709d49980ed"
+hash = "0c9da79910dff63112c1810f5926f30fa519311e5be645f82e5612b106420071d5105e94f80377fe285d9f6134c59809690f66879159e51dfe3bb079db5c1989"
 
 [update]
 [update.modrinth]
 mod-id = "gvl7lVcV"
-version = "C9VPqSKD"
+version = "DbIjG4G7"

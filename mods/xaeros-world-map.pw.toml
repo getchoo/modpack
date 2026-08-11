@@ -1,16 +1,16 @@
 name = "Xaero's World Map"
-filename = "xaeroworldmap-fabric-26.2-1.41.3.jar"
+filename = "xaeroworldmap-neoforge-26.2-1.44.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NcUtCpym/versions/5OKukukw/xaeroworldmap-fabric-26.2-1.41.3.jar"
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/pKatKnls/xaeroworldmap-neoforge-26.2-1.44.2.jar"
 hash-format = "sha512"
-hash = "1b66c3e7fd9d979995162734b9946ae946a9e817ff750244a3265f66393fd53a01acd551f112ca297660d697a2adbdb9f0714aa6dfbfb20a343450a2fa9798a6"
+hash = "d74fe4155e0b5b9aa4d6d51933dbae3043a5e6550f130e13cfc79af387d9f49c2497a58c060d25e420667cff20cd384bdf3f8c5afc3ad4fc189a9e984ae465d6"
 
 [update]
 [update.modrinth]
 mod-id = "NcUtCpym"
-version = "5OKukukw"
+version = "pKatKnls"
 
 [option]
 optional = true

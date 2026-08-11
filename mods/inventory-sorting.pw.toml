@@ -1,0 +1,17 @@
+name = "Inventory Sorting"
+filename = "inventorysorter-neoforge-3.0.0+mc26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5ibSyLAz/versions/EghD6kRl/inventorysorter-neoforge-3.0.0%2Bmc26.2.jar"
+hash-format = "sha512"
+hash = "aa335a574cb567d2af2c10c27d247e2329aebb536c756bd971a8f307f3199b685a0bdc7009c6ee8299c74698d8e18d0c009058147c3374fb63f6b216fb6d21df"
+
+[update]
+[update.modrinth]
+mod-id = "5ibSyLAz"
+version = "EghD6kRl"
+
+[option]
+optional = true
+description = "Cool inventory sorter"

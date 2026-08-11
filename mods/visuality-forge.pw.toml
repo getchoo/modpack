@@ -1,0 +1,17 @@
+name = "Visuality: Reforged"
+filename = "visuality-3.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/z13R7Et1/versions/mouK8ZkV/visuality-3.0.0.jar"
+hash-format = "sha512"
+hash = "a7868021a22532e2c97ec1ab4b133b6b0ab2df05869ec0f9f1871d07a3758601ff7efcdb701e8051220d44b6747fe89bb2937c0e2e5ce10a094148c93ea4a481"
+
+[update]
+[update.modrinth]
+mod-id = "z13R7Et1"
+version = "mouK8ZkV"
+
+[option]
+optional = true
+description = "Add some nice extra visual effects to the game"

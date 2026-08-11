@@ -1,13 +1,13 @@
 name = "Immersive Optimization"
-filename = "immersive_optimization-fabric-26.1.2-0.1.6.jar"
+filename = "immersive_optimization-neoforge-26.2-0.2.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/vNZgQmjg/versions/bIrgTbLO/immersive_optimization-fabric-26.1.2-0.1.6.jar"
+url = "https://cdn.modrinth.com/data/vNZgQmjg/versions/FINcrLHK/immersive_optimization-neoforge-26.2-0.2.0.jar"
 hash-format = "sha512"
-hash = "3e4424a556bed98af2d2852eb0457c4757b2fd1c914ced0f15eafa273a18133970934729d28ff2b3e631e2968da30357cc3f2068f1b860b3b8eba96d4def908c"
+hash = "2204676f4c9f94639e5fac0eca50ef51c0049203eb630bdd4b801b9d7e4029b70d7db9eed371c52bb9f492fe6927428635edf308bbb90da6f83c5b5ccdd894e9"
 
 [update]
 [update.modrinth]
 mod-id = "vNZgQmjg"
-version = "bIrgTbLO"
+version = "FINcrLHK"
