@@ -41,11 +41,6 @@ hash = "2f4aab8106abdbf4482e8a0df58edf298f0359d1fac0e56dd59adfa9906b7d62"
 metafile = true
 
 [[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "8e8186d427a30e844961e791f9911fee3342ffe99fe1ce77b465a72f461bcf7e"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "ac5bdd516ad97f66995c08708bd9f80140bb1dcf9a46be820ffda01ac43f1951"
 metafile = true
@@ -168,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "a88f5a4ec443585daa77bdf630795b6a5faed55beb4d47c993d6bd602607ba1c"
+metafile = true
+
+[[files]]
+file = "mods/widgets.pw.toml"
+hash = "d7c1811c294c3d49b280a23ae1b5f34e0baaa0e8419c03bc46cf143ce5e16bab"
 metafile = true
 
 [[files]]
