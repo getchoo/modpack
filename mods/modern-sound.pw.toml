@@ -1,0 +1,13 @@
+name = "Modern Sound"
+filename = "ModernSound-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RhIs71uV/versions/V3qkGcvN/ModernSound-1.0.0.jar"
+hash-format = "sha512"
+hash = "00d5b5b7a906a40d75d9f3ae004cac13dadf3b054794026b8aa1d4ff40b9509492c37f3f0bac389d6b53e11dab3b8474c1e7f3f7734df70d6571ff5b3ee14333"
+
+[update]
+[update.modrinth]
+mod-id = "RhIs71uV"
+version = "V3qkGcvN"

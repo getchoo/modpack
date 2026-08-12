@@ -1,0 +1,13 @@
+name = "Waila"
+filename = "Waila-1.6.0-B3_1.8.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13a319f2a14291a1f496fbdfef7de20dc694cf3b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2270821
+project-id = 73488

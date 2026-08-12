@@ -1,0 +1,13 @@
+name = "LetMeSpeak"
+filename = "letmespeak-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qJmUunZQ/versions/ucOV0RP6/letmespeak-1.0.jar"
+hash-format = "sha512"
+hash = "e5326b618ac2d3fa3b5b7fa9242e2323d5da57d8e84bc808d5baea3da7d8a3d058791d960be7ce25000a1e47e1abe511adf3a183b9f0ee551ea898cbfb66fbd7"
+
+[update]
+[update.modrinth]
+mod-id = "qJmUunZQ"
+version = "ucOV0RP6"
