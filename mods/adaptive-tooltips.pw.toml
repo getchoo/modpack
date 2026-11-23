@@ -1,16 +1,16 @@
 name = "Adaptive Tooltips"
-filename = "AdaptiveTooltips-1.4.1+26.2-universal.jar"
+filename = "AdaptiveTooltips-1.4.2+26.3-universal.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/wFv8yCxM/versions/RHdxeFtz/AdaptiveTooltips-1.4.1%2B26.2-universal.jar"
+url = "https://cdn.modrinth.com/data/wFv8yCxM/versions/KD5HuKpw/AdaptiveTooltips-1.4.2%2B26.3-universal.jar"
 hash-format = "sha512"
-hash = "a86479cf10591e2aa9a760b6c8da52a978173415f07cd0d5903fe3486d93abcb4aed1040826fcb0675cacefd0ed2719e1ae7e0bd58b95b9b07637f4518529799"
+hash = "8008605bb1f1476a8db806baaf8d7e08371b93751eee031e1a72c4ddb0ebe2f94f53134b91f86880ef9b06fe3e5a396991867e62cc1561997a8445e702dcbd70"
 
 [update]
 [update.modrinth]
 mod-id = "wFv8yCxM"
-version = "RHdxeFtz"
+version = "KD5HuKpw"
 
 [option]
 optional = true

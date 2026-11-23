@@ -1,16 +1,16 @@
 name = "Mouse Wheelie"
-filename = "mouse-wheelie-1.16.3+mc26.2.jar"
+filename = "mouse-wheelie-1.16.4+mc26.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/Vt8Qojph/mouse-wheelie-1.16.3%2Bmc26.2.jar"
+url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/Gd0zpYQR/mouse-wheelie-1.16.4%2Bmc26.3.jar"
 hash-format = "sha512"
-hash = "849c8a3f7032c49eea5ecb27ae09a8eb464f66850ce47c70cf7821031c3b8cdb6fcb2b0492c9abef7cb7aacf3877df7f0c379798cd9c130dc42ed56b75723373"
+hash = "f4cee333ce3c37a9d5d6572af5125586ac017c5f05d55846ec7bc86df33f52b497258fd5a9b7ca243600ce1e1b06f2abddac5ca647741633f8793409ee96a79d"
 
 [update]
 [update.modrinth]
 mod-id = "u5Ic2U1u"
-version = "Vt8Qojph"
+version = "Gd0zpYQR"
 
 [option]
 optional = true

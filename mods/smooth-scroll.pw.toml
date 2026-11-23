@@ -1,13 +1,13 @@
 name = "Smooth Scrolling"
-filename = "smoothscroll-2.9.0.jar"
+filename = "smoothscroll-3.0.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/CllP7wW0/versions/UnyB1ePl/smoothscroll-2.9.0.jar"
+url = "https://cdn.modrinth.com/data/CllP7wW0/versions/fE9IISvs/smoothscroll-3.0.2.jar"
 hash-format = "sha512"
-hash = "3e90b573b8dd4321aeaf6d2953a3b51bfc4119ff80f1ab2d5939bc6f5a564f6080eafe3663904976ee5f6a4376e83811512183f6e2e08d3e35bee462399a396a"
+hash = "8f9f4f626e8ea0d0ebcb40f356773f3c98f882ddfed11df264fac37d5b9d91deea5af8fb275ef600f075103471163bfdc8a914a703cd251b582ec59a2bec4988"
 
 [update]
 [update.modrinth]
 mod-id = "CllP7wW0"
-version = "UnyB1ePl"
+version = "fE9IISvs"
